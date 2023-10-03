@@ -1,0 +1,15 @@
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.exe
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.deps.json
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.runtimeconfig.json
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.dll
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\bin\Debug\net6.0\Examle001_HelloConsole.pdb
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.AssemblyInfo.cs
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.dll
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\obj\Debug\net6.0\refint\Examle001_HelloConsole.dll
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.pdb
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\obj\Debug\net6.0\Examle001_HelloConsole.genruntimeconfig.cache
+C:\Users\workuser\Documents\GeekBrains\Projects_VSCode\C#_lesson\Examples\Examle001_HelloConsole\obj\Debug\net6.0\ref\Examle001_HelloConsole.dll
